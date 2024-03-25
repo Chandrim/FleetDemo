@@ -3,3 +3,13 @@
 
 # Ignore Gradle build output directory
 build
+
+*.iml
+xcuserdata
+!src/**/build/
+local.properties
+.idea
+.DS_Store
+captures
+.externalNativeBuild
+.cxx
